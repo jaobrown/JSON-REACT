@@ -1,0 +1,56 @@
+{
+  "albums": [
+    {
+        "albumName": "hello world",
+        "bandName": "Weird Band",
+        "songs": [
+          {
+            "name": "hello World",
+            "playtime": "3:22",
+            "instrument": "piano"
+          },
+          {
+            "name": "Goodbye World",
+            "playtime": "9:12",
+            "instrument": "Cello"
+          },
+          {
+            "name": "hello again",
+            "playtime": "21:12",
+            "instrument": "all of them"
+          },
+          {
+            "name": "bye for good",
+            "playtime": "23:19",
+            "instrument": "none"
+          }
+        ]
+      },
+    {
+        "albumName": "Goodbye World",
+        "bandName": "Cool Band",
+        "songs": [
+          {
+            "name": "Here is is",
+            "playtime": "9:21",
+            "instrument": "voices"
+          },
+          {
+            "name": "this is it",
+            "playtime": "11:11",
+            "instrument": "piano"
+          },
+          {
+            "name": "song 3",
+            "playtime": "2:12",
+            "instrument": "none of them"
+          },
+          {
+            "name": "song 4",
+            "playtime": "13:19",
+            "instrument": "cool ones"
+          }
+        ]
+      }
+  ]
+}
